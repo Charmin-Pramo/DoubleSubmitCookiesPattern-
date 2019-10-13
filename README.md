@@ -20,4 +20,4 @@ Run
 
 If the environment is configured using either xampp or wamp servers, then clone the repo and paste it inside the htdocs folder to run the application.
 
-
+To learn More about Double Submitted Cookie Pattern https://charminpramo.blogspot.com/2019/10/double-submit-cookies-pattern-cookies.html
